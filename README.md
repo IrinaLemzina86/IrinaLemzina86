@@ -8,7 +8,7 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://tinyurl.com/yxjp5jsw">
+  <a href="https://viber.click/79616340887">
     <img src="https://img.shields.io/badge/Viber-violet?logo=Viber&logoColor=white" alt="Viber Badge"/>
   </a>
   <a href="your-linkedin-URL">
