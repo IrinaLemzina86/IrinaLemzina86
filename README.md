@@ -4,9 +4,13 @@
 </h2>
 
 ### Меня зовут Ирина.
-### Я начинающий Аналитик данных.
+### Я Аналитик данных. 
 ### Прошла курс профессиональной переподготовки в Нетологии.
+<h2>
+  <img src="https://media.istockphoto.com/id/1309831153/ru/векторная/панель-мониторинга-отличный-дизайн-для-любых-целей-сайта-шаблон-бизнес-инфографики.jpg?s=612x612&w=0&k=20&c=Q1sLIvl0T9oVC5_tXg6DtdfNpo_InIFvyvk2BjFHiA8=" width="300px"/>
+</h2>
 ---
+
 ### Всегда на связи:
 <div id="badges">
   <a href="https://msng.link/o?9616340887=tg">
@@ -27,5 +31,9 @@
 </div>
 
 <div id="header" align="center">
-  <img scr="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100"/>
+  <a>
+    <img scr="https://www.istockphoto.com/ru/векторная/панель-мониторинга-отличный-дизайн-для-любых-целей-сайта-шаблон-бизнес-gm1309831153-399425704">
+  </a>
 </div>
+
+ 
