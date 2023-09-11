@@ -14,19 +14,19 @@
 <h2 align="center">
   <div id="badges">
     <a href="https://msng.link/o?9616340887=tg">
-      <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram Badge" width="100px"/>
     </a>
     <a href="https://viber.click/79616340887">
-      <img src="https://img.shields.io/badge/Viber-violet?logo=Viber&logoColor=white" alt="Viber Badge"/>
+      <img src="https://img.shields.io/badge/Viber-violet?logo=Viber&logoColor=white" alt="Viber Badge" width="75px"/>
     </a>
     <a href="https://discord.gg/CYgdTssf">
-      <img src="https://img.shields.io/badge/Discord-blue?logo=Discord&logoColor=white" alt="Discord Badge"/>
+      <img src="https://img.shields.io/badge/Discord-blue?logo=Discord&logoColor=white" alt="Discord Badge" width="90px"/>
     </a>
     <a href="https://msng.link/o?9616340887=wa"> 
-      <img src="https://img.shields.io/badge/WhatsApp-green?logo=WhatsApp&logoColor=white" alt="WhatsApp Badge"/>
+      <img src="https://img.shields.io/badge/WhatsApp-green?logo=WhatsApp&logoColor=white" alt="WhatsApp Badge" width="110px"/>
     </a>
     <a href="https://msng.link/o?id10362199=vk"> 
-      <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white" alt="VK Badge"/>
+      <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white" alt="VK Badge" width="58px"/>
     </a>
   </div>
 </h2>
