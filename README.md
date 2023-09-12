@@ -11,7 +11,8 @@
 <h2 align="center"> Всегда на связи: 
 </h2>
 <h2 align="center">
-  <a href="mailto:irinalemzina86@gmail.com">Написать письмо по электронной почте</a>
+ <p>Написать письмо по электронной почте
+     <a href="mailto:irinalemzina86@gmail.com">irinalemzina86@gmail.com</a></p>
 </h2>
 <h2 align="center">
   <div id="badges">
