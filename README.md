@@ -44,14 +44,23 @@
 </h2>  
 <h2 align="center">
   <div id="badges">
-    <a>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" width="80" height="80"/>
+        <a>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" width="80" height="80"/>
     </a>
     <a>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="80" height="80"/>
     </a>
     <a>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="80" height="80"/>
+    </a>
+    <a>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="80" height="80"/>
+    </a>
+    <a>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="80" height="80"/>
+    </a>
+     <a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" width="80" height="80"/>
     </a>
     <a>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" height="80"/>
