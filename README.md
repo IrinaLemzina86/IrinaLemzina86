@@ -10,7 +10,9 @@
 
 <h2 align="center"> Всегда на связи: 
 </h2>
-
+<h2 align="center">
+  <a href="mailto:irinalemzina86@gmail.com">Написать письмо по электронной почте</a>
+</h2>
 <h2 align="center">
   <div id="badges">
     <a href="https://msng.link/o?9616340887=tg">
