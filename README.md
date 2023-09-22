@@ -40,7 +40,7 @@
   </a>
 </div>
 
-<h2 align="center"> Language and Tools:
+<h2 align="center"> Languages and Tools:
 </h2>  
 <h2 align="center">
   <div id="badges">
