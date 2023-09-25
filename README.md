@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/Viber-violet?logo=Viber&logoColor=white" alt="Viber Badge" width="75px"/>
     </a>
     <a href="https://discord.gg/CYgdTssf">
-      <img src="https://img.shields.io/badge/Discord-blue?logo=Discord&logoColor=white" alt="Discord Badge" width="90px"/>
+      <img src="https://discord.gg/Kfsu5NnSfn" alt="Discord Badge" width="90px"/>
     </a>
     <a href="https://msng.link/o?9616340887=wa"> 
       <img src="https://img.shields.io/badge/WhatsApp-green?logo=WhatsApp&logoColor=white" alt="WhatsApp Badge" width="110px"/>
