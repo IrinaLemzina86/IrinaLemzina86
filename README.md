@@ -20,7 +20,7 @@
     <a href="https://viber.click/79616340887">
       <img src="https://img.shields.io/badge/Viber-violet?logo=Viber&logoColor=white" alt="Viber Badge" width="75px"/>
     </a>
-    <a href="https://discord.gg/CYgdTssf">
+    <a href="https://discord.gg/Kfsu5NnSfn">
       <img src="https://discord.gg/Kfsu5NnSfn" alt="Discord Badge" width="90px"/>
     </a>
     <a href="https://msng.link/o?9616340887=wa"> 
